@@ -1,0 +1,23 @@
+/**
+ * MAIN CSS
+ */
+
+html,
+body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    font: normal 14px monospace;
+}
+
+body {
+    background: #eee;
+}
+
+small {
+    bottom: 10px;
+    color: #999;
+    font-size: 11px;
+    position: absolute;
+    right: 14px;
+}
